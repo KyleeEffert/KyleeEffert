@@ -6,12 +6,10 @@ I am interested in Cybersecurity and Game Development and am looking to develop 
 
 My main tech stack is C, HTML, and Java. My favorite tools are figma and notes.
 
-Current Projects: ...
-
-Though I don't have any public repos, privately I have several for passion projects.
+Current Projects: Building a platformer inspired by the Trine game series.
 
 Fun Facts:
  + I love card games
- + Tony Stark (Ironman)
- + Hobbies: reading and creating projects
+ + My favorite Marvel characters are Tony Stark (Ironman) & Loki 
+ + Hobies: reading and creating projects
  + My sister made my profile picture
